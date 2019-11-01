@@ -1,0 +1,3 @@
+[submodule "apps/madi-skills"]
+	path = apps/madi-skills
+	url = git@github.com:mheleon/madi-skills.git
